@@ -1,0 +1,24 @@
+C:\Users\andre\Desktop\Aplicacion Web\Unidad 2\Semana 5\StoreApplication\StoreApp.Entities\bin\Debug\net5.0\StoreApp.Entities.deps.json
+C:\Users\andre\Desktop\Aplicacion Web\Unidad 2\Semana 5\StoreApplication\StoreApp.Entities\bin\Debug\net5.0\StoreApp.Entities.dll
+C:\Users\andre\Desktop\Aplicacion Web\Unidad 2\Semana 5\StoreApplication\StoreApp.Entities\bin\Debug\net5.0\ref\StoreApp.Entities.dll
+C:\Users\andre\Desktop\Aplicacion Web\Unidad 2\Semana 5\StoreApplication\StoreApp.Entities\bin\Debug\net5.0\StoreApp.Entities.pdb
+C:\Users\andre\Desktop\Aplicacion Web\Unidad 2\Semana 5\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Aplicacion Web\Unidad 2\Semana 5\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Aplicacion Web\Unidad 2\Semana 5\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Aplicacion Web\Unidad 2\Semana 5\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.AssemblyInfo.cs
+C:\Users\andre\Desktop\Aplicacion Web\Unidad 2\Semana 5\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Aplicacion Web\Unidad 2\Semana 5\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.dll
+C:\Users\andre\Desktop\Aplicacion Web\Unidad 2\Semana 5\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\ref\StoreApp.Entities.dll
+C:\Users\andre\Desktop\Aplicacion Web\Unidad 2\Semana 5\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.pdb
+D:\StoreApplication\StoreApplication\StoreApp.Entities\bin\Debug\net5.0\StoreApp.Entities.deps.json
+D:\StoreApplication\StoreApplication\StoreApp.Entities\bin\Debug\net5.0\StoreApp.Entities.dll
+D:\StoreApplication\StoreApplication\StoreApp.Entities\bin\Debug\net5.0\ref\StoreApp.Entities.dll
+D:\StoreApplication\StoreApplication\StoreApp.Entities\bin\Debug\net5.0\StoreApp.Entities.pdb
+D:\StoreApplication\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.csprojAssemblyReference.cache
+D:\StoreApplication\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\StoreApplication\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.AssemblyInfoInputs.cache
+D:\StoreApplication\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.AssemblyInfo.cs
+D:\StoreApplication\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.csproj.CoreCompileInputs.cache
+D:\StoreApplication\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.dll
+D:\StoreApplication\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\ref\StoreApp.Entities.dll
+D:\StoreApplication\StoreApplication\StoreApp.Entities\obj\Debug\net5.0\StoreApp.Entities.pdb
