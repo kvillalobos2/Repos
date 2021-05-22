@@ -1,0 +1,278 @@
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\appsettings.json
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Web.exe
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Web.deps.json
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Web.runtimeconfig.json
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Web.runtimeconfig.dev.json
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Web.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ref\Bookmarks.Web.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Web.pdb
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Humanizer.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Data.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Entities.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Data.pdb
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Entities.pdb
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.csprojAssemblyReference.cache
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.AssemblyInfoInputs.cache
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.AssemblyInfo.cs
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.csproj.CoreCompileInputs.cache
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\staticwebassets\Bookmarks.Web.StaticWebAssets.Manifest.cache
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\staticwebassets\Bookmarks.Web.StaticWebAssets.xml
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\scopedcss\bundle\Bookmarks.Web.styles.css
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.RazorTargetAssemblyInfo.cache
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.csproj.CopyComplete
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.dll
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\ref\Bookmarks.Web.dll
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.pdb
+D:\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.genruntimeconfig.cache
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\appsettings.json
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Web.exe
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Web.deps.json
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Web.runtimeconfig.json
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Web.runtimeconfig.dev.json
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Web.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ref\Bookmarks.Web.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Web.pdb
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Humanizer.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Data.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Entities.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Data.pdb
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\bin\Debug\net5.0\Bookmarks.Entities.pdb
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.csprojAssemblyReference.cache
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.AssemblyInfoInputs.cache
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.AssemblyInfo.cs
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.csproj.CoreCompileInputs.cache
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\staticwebassets\Bookmarks.Web.StaticWebAssets.Manifest.cache
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\staticwebassets\Bookmarks.Web.StaticWebAssets.xml
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\scopedcss\bundle\Bookmarks.Web.styles.css
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.RazorTargetAssemblyInfo.cache
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.csproj.CopyComplete
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\ref\Bookmarks.Web.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.pdb
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Web\obj\Debug\net5.0\Bookmarks.Web.genruntimeconfig.cache

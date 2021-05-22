@@ -1,0 +1,24 @@
+D:\Bookmarks.API\Bookmarks.Entities\bin\Debug\net5.0\Bookmarks.Entities.deps.json
+D:\Bookmarks.API\Bookmarks.Entities\bin\Debug\net5.0\Bookmarks.Entities.dll
+D:\Bookmarks.API\Bookmarks.Entities\bin\Debug\net5.0\ref\Bookmarks.Entities.dll
+D:\Bookmarks.API\Bookmarks.Entities\bin\Debug\net5.0\Bookmarks.Entities.pdb
+D:\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.csprojAssemblyReference.cache
+D:\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.AssemblyInfoInputs.cache
+D:\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.AssemblyInfo.cs
+D:\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.csproj.CoreCompileInputs.cache
+D:\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.dll
+D:\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\ref\Bookmarks.Entities.dll
+D:\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.pdb
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Entities\bin\Debug\net5.0\Bookmarks.Entities.deps.json
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Entities\bin\Debug\net5.0\Bookmarks.Entities.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Entities\bin\Debug\net5.0\ref\Bookmarks.Entities.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Entities\bin\Debug\net5.0\Bookmarks.Entities.pdb
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.csprojAssemblyReference.cache
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.AssemblyInfoInputs.cache
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.AssemblyInfo.cs
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.csproj.CoreCompileInputs.cache
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\ref\Bookmarks.Entities.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Entities\obj\Debug\net5.0\Bookmarks.Entities.pdb

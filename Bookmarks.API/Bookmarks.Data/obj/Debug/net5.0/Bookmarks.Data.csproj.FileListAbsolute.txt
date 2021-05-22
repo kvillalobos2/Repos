@@ -1,0 +1,36 @@
+D:\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Data.deps.json
+D:\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Data.runtimeconfig.json
+D:\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Data.runtimeconfig.dev.json
+D:\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Data.dll
+D:\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\ref\Bookmarks.Data.dll
+D:\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Data.pdb
+D:\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Entities.dll
+D:\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Entities.pdb
+D:\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.csprojAssemblyReference.cache
+D:\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.AssemblyInfoInputs.cache
+D:\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.AssemblyInfo.cs
+D:\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.csproj.CoreCompileInputs.cache
+D:\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.csproj.CopyComplete
+D:\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.dll
+D:\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\ref\Bookmarks.Data.dll
+D:\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.pdb
+D:\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.genruntimeconfig.cache
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Data.deps.json
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Data.runtimeconfig.json
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Data.runtimeconfig.dev.json
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Data.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\ref\Bookmarks.Data.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Data.pdb
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Entities.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\bin\Debug\net5.0\Bookmarks.Entities.pdb
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.csprojAssemblyReference.cache
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.AssemblyInfoInputs.cache
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.AssemblyInfo.cs
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.csproj.CoreCompileInputs.cache
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.csproj.CopyComplete
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\ref\Bookmarks.Data.dll
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.pdb
+D:\CICLO 5\Aplicaciones Web\Modelo examen parcial\Bookmarks.API\Bookmarks.Data\obj\Debug\net5.0\Bookmarks.Data.genruntimeconfig.cache
