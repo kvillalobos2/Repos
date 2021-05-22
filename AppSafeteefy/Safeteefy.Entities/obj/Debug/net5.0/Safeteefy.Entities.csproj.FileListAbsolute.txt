@@ -1,0 +1,24 @@
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Entities\bin\Debug\net5.0\Safeteefy.Entities.deps.json
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Entities\bin\Debug\net5.0\Safeteefy.Entities.dll
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Entities\bin\Debug\net5.0\ref\Safeteefy.Entities.dll
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Entities\bin\Debug\net5.0\Safeteefy.Entities.pdb
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.csprojAssemblyReference.cache
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.AssemblyInfo.cs
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.dll
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Entities\obj\Debug\net5.0\ref\Safeteefy.Entities.dll
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.pdb
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Entities\bin\Debug\net5.0\Safeteefy.Entities.deps.json
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Entities\bin\Debug\net5.0\Safeteefy.Entities.dll
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Entities\bin\Debug\net5.0\ref\Safeteefy.Entities.dll
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Entities\bin\Debug\net5.0\Safeteefy.Entities.pdb
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.csprojAssemblyReference.cache
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.AssemblyInfo.cs
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.dll
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Entities\obj\Debug\net5.0\ref\Safeteefy.Entities.dll
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Entities\obj\Debug\net5.0\Safeteefy.Entities.pdb

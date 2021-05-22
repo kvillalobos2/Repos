@@ -1,0 +1,36 @@
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Data.deps.json
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Data.runtimeconfig.json
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Data.runtimeconfig.dev.json
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Data.dll
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\bin\Debug\net5.0\ref\Safeteefy.Data.dll
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Data.pdb
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Entities.dll
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Entities.pdb
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.csprojAssemblyReference.cache
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.AssemblyInfo.cs
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.csproj.CopyComplete
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.dll
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\obj\Debug\net5.0\ref\Safeteefy.Data.dll
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.pdb
+C:\Users\User\Documents\UPC-Trabajos\Aplicaciones Web\Repaso_Parcial\AppSafeteefy\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.genruntimeconfig.cache
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Data.deps.json
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Data.runtimeconfig.json
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Data.runtimeconfig.dev.json
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Data.dll
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\bin\Debug\net5.0\ref\Safeteefy.Data.dll
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Data.pdb
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Entities.dll
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\bin\Debug\net5.0\Safeteefy.Entities.pdb
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.csprojAssemblyReference.cache
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.AssemblyInfo.cs
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.csproj.CopyComplete
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.dll
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\obj\Debug\net5.0\ref\Safeteefy.Data.dll
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.pdb
+C:\Users\User\Downloads\AppSafeteefy - copia\AppSafeteefy - copia\Safeteefy.Data\obj\Debug\net5.0\Safeteefy.Data.genruntimeconfig.cache
